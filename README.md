@@ -2,7 +2,7 @@
 
 Please view on: 
 
-Tokyo Marathon: https://fengdh.github.io/MarathonBlog/Tokyo2018
+Tokyo Marathon: https://fengdh.github.io/MarathonBlog/Tokyo2018/index.html
 
 
 --------
