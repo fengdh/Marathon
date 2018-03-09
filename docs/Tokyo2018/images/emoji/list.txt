@@ -1,0 +1,75 @@
+banana_1f34c.png
+bear-face_1f43b.png
+beating-heart_1f493.png
+bread_1f35e.png
+bridge-at-night_1f309.png
+candy_1f36c.png
+cherry-blossom_1f338.png
+chocolate-bar_1f36b.png
+dragon_1f409.png
+face-screaming-in-fear_1f631.png
+flag-for-china_1f1e8-1f1f3.png
+footprints_1f463.png
+glass-of-milk_1f95b.png
+horse-racing_1f3c7.png
+horse_1f40e.png
+keycap-digit-five_35-fe0f-20e3.png
+keycap-digit-nine_39-fe0f-20e3.png
+keycap-digit-one_31-fe0f-20e3.png
+lion-face_1f981.png
+list.txt
+mount-fuji_1f5fb.png
+multiple-musical-notes_1f3b6.png
+negative-squared-latin-capital-letter-b_1f171.png
+negative-squared-latin-capital-letter-p_1f17f.png
+no-entry-sign_1f6ab.png
+rabbit-face_1f430.png
+rabbit_1f407.png
+rainbow_1f308.png
+shinto-shrine_26e9.png
+snowman_2603.png
+sports-medal_1f3c5.png
+
+<img class="emoji" src="../Images/banana_1f34c.png"/>
+<img class="emoji" src="../Images/bear-face_1f43b.png"/>
+<img class="emoji" src="../Images/beating-heart_1f493.png"/>
+<img class="emoji" src="../Images/bread_1f35e.png"/>
+<img class="emoji" src="../Images/bridge-at-night_1f309.png"/>
+<img class="emoji" src="../Images/candy_1f36c.png"/>
+<img class="emoji" src="../Images/cherry-blossom_1f338.png"/>
+<img class="emoji" src="../Images/chocolate-bar_1f36b.png"/>
+<img class="emoji" src="../Images/dragon_1f409.png"/>
+<img class="emoji" src="../Images/face-screaming-in-fear_1f631.png"/>
+<img class="emoji" src="../Images/flag-for-china_1f1e8-1f1f3.png"/>
+<img class="emoji" src="../Images/footprints_1f463.png"/>
+<img class="emoji" src="../Images/glass-of-milk_1f95b.png"/>
+<img class="emoji" src="../Images/horse-racing_1f3c7.png"/>
+<img class="emoji" src="../Images/horse_1f40e.png"/>
+<img class="emoji" src="../Images/keycap-digit-one_31-fe0f-20e3.png"/>
+<img class="emoji" src="../Images/keycap-digit-five_35-fe0f-20e3.png"/>
+<img class="emoji" src="../Images/keycap-digit-nine_39-fe0f-20e3.png"/>
+<img class="emoji" src="../Images/keycap-digit-nine_39-fe0f-20e3.png"/>
+<img class="emoji" src="../Images/lion-face_1f981.png"/>
+<img class="emoji" src="../Images/list.txt"/>
+<img class="emoji" src="../Images/mount-fuji_1f5fb.png"/>
+<img class="emoji" src="../Images/multiple-musical-notes_1f3b6.png"/>
+<img class="emoji" src="../Images/negative-squared-latin-capital-letter-b_1f171.png"/>
+<img class="emoji" src="../Images/negative-squared-latin-capital-letter-p_1f17f.png"/>
+<img class="emoji" src="../Images/no-entry-sign_1f6ab.png"/>
+<img class="emoji" src="../Images/rabbit-face_1f430.png"/>
+<img class="emoji" src="../Images/rabbit_1f407.png"/>
+<img class="emoji" src="../Images/rainbow_1f308.png"/>
+<img class="emoji" src="../Images/shinto-shrine_26e9.png"/>
+<img class="emoji" src="../Images/snowman_2603.png"/>
+<img class="emoji" src="../Images/sports-medal_1f3c5.png"/>
+<img class="emoji" src="../Images/steaming-bowl_1f35c.png"/>
+<img class="emoji" src="../Images/tokyo-tower_1f5fc.png"/>
+<img class="emoji" src="../Images/victory-hand_270c.png"/>
+<img class="emoji" src="../Images/white-frowning-face_2639.png"/>
+
+<img class="emoji" src="../Images/loudly-crying-face_1f62d.png"/>
+<img class="emoji" src="../Images/mushroom_1f344.png"/>
+
+steaming-bowl_1f35c.png
+tokyo-tower_1f5fc.png
+victory-hand_270c.png
